@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harshvasava307
-- 👀 I’m interested in Fullstack Web
-- 🌱 I’m currently learning Backend 
+- 👋 Hi, I’m @Harshvasava307,
+- 👀 I’m interested in Fullstack Webdevelopement. 
+- 🌱 I’m currently learning Blockchain and Machine Learning.
 - 📫 How to reach me Email - hardyvsv@gamil.com
 
 <!---
