@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshvasava307,
 - 👀 I’m interested in Fullstack Webdevelopement. 
 - 🌱 I’m currently learning Blockchain and Machine Learning.
-- 📫 How to reach me Email - hardyvsv@gamil.com
+- 📫 How to reach me Email - hardyvsv@gmail.com
 
 <!---
 Harshvasava307/Harshvasava307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
