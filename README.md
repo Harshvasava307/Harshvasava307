@@ -11,7 +11,7 @@ I'm a full stack developer with hands-on experience in building modern web appli
 - **Languages & Frameworks:** PHP, Python, Java, C#, ASP.NET, Laravel  
 - **Frontend:** HTML, CSS, JavaScript (and relevant libraries)  
 - **Backend & APIs:** RESTful APIs, MVC architecture, Laravel & ASP.NET  
-- **Tools & Practices:** Git, MySQL/PostgreSQL, VS Code, Visual Studio
+- **Tools & Practices:** Git, MySQL/PostgreSQL, SQL lite,VS Code, Visual Studio
 
 I enjoy solving complex problems, building scalable systems, and learning new technologies that push my boundaries as a developer.
 
