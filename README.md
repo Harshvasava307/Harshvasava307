@@ -84,7 +84,3 @@ If you enjoy:
 👉 Feel free to connect and collaborate!
 
 ---
-
-<!--
-Harshvasava307/Harshvasava307 is a special repository because its README.md appears on your GitHub profile.
--->
